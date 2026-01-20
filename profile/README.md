@@ -1,4 +1,4 @@
-# BITS Pilani Digital | M.Sc. Data Science & AI – Applied Practice
+# BITS Pilani Digital | M.Sc. Data Science & Artificial Intelligence – Applied Practice
 
 This organization hosts applied coursework, laboratories, experiments, and capstone projects developed as part of the **M.Sc. Data Science & Artificial Intelligence** program at **BITS Pilani Digital**.
 
